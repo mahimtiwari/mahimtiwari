@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://giffiles.alphacoders.com/163/163818.gif" width="250"/>
 </div>
-<div align="center"><h3>Hi 👋! My name is Mahim</h3></div>
+<div align="center"><h2>Hi 👋! My name is Mahim</h2></div>
 <!-- <div align="center">A passionate programmer and tech enthusiast.</div> -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mahim-tiwari/">
