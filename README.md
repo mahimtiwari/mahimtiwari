@@ -14,7 +14,7 @@
 <div align="center"><h2>Expertise👨‍💻</h2></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,django,java&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,django,java,api&perline=3" />
   </a>
 </p>
 <br>
